@@ -2,6 +2,8 @@ import pygame
 import time
 import random
 
+#Waffle
+
 pygame.init()
 
 display_width = 800
